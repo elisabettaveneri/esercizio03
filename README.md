@@ -1,1 +1,0 @@
-Descrizione del progetto: esercizio 02 di github
